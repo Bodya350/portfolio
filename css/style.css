@@ -523,6 +523,7 @@ span {
   transition: all 0.5s;
   cursor: pointer;
   padding: 3px;
+  margin-bottom:-12px;
 }
 .footer_arrow.show {
   transition: all 0.5s;
